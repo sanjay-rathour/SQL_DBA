@@ -1,2 +1,2 @@
 # SQL_DBA
-Author-Sanjay
+Author-Sanjay Rathour
