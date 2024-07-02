@@ -4,7 +4,7 @@ create database if not exists db1;
 
 show databases;
 
-rename table db.course to db1.course;
+rename table db.course to db1.course;    (changing the name of database in every table).
 
 set sql_safe_updates = 0;
 
