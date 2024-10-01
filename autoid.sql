@@ -1,6 +1,6 @@
 CREATE TABLE table7(
 id INT ,
-city VARCHAR(50),
+city VARCHAR(50)
 distance INT 
 );
 DROP TABLE table7;
