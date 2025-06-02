@@ -12,7 +12,7 @@ create table student(
 roll_no int primary key,
 name varchar(255),
 address varchar(30)
-); 
+);
 
 insert into student(
 roll_no,name,address)
