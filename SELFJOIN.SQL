@@ -10,7 +10,7 @@ PRIMARY KEY (id)
 TRUNCATE TABLE table6;
 
 INSERT INTO table6
-VALUES
+VALUES 
 (101,'adam',103),
 (102,'bob',104),
 (103,'casey',NULL),
