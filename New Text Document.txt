@@ -2,7 +2,7 @@ USE college;
 CREATE TABLE student(
 rollno INT PRIMARY KEY,
 name VARCHAR(50),
-marks INT NOT NULL,
+marks INT NOT NULL, 
 grade VARCHAR(1),
 city CHAR(20)
 );
