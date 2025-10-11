@@ -25,7 +25,7 @@ SELECT * FROM student ORDER BY city;
 SELECT * FROM student ORDER BY city DESC;
 SELECT * FROM student ORDER BY marks; 
 SELECT * FROM student ORDER BY marks DESC; 
-SELECT * FROM student ORDER BY marks DESC LIMIT 3; 
+SELECT * FROM student ORDER BY marks DESC LIMIT 3;  
 SELECT MAX(marks) FROM student; 
 SELECT MIN(marks) FROM student; 
 SELECT MAX(marks) FROM student; 
