@@ -16,7 +16,7 @@ VALUES
 (103,'casey',NULL),
 (104,'donald',103);
 
-SELECT * FROM table6;
+SELECT * FROM table6; 
 
 SELECT * 
 FROM table6 AS a 
