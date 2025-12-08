@@ -4,7 +4,7 @@ show databases;
 select now();
 
 select 2+1*3;
-
+ 
 select ucase('abcd');
 
 desc customer;
