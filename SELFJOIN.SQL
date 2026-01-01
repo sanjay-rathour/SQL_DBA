@@ -12,7 +12,7 @@ TRUNCATE TABLE table6;
 INSERT INTO table6
 VALUES 
 (101,'adam',103),
-(102,'bob',104),
+(102,'bob',104), 
 (103,'casey',NULL),
 (104,'donald',103);
 
