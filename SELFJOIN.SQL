@@ -29,7 +29,7 @@ FROM table6 AS a
 JOIN table6 AS b
 ON a.id = b.e_id; 
 
-SELECT a.name AS manager_name, b.name 
+SELECT a.name AS manager_name, b.name  
 FROM table6 AS a  
 JOIN table6 AS b
 ON a.id = b.e_id;
